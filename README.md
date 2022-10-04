@@ -1,5 +1,5 @@
 # Insertion-Sort-Projesi-www.patika.dev-
-Patika Kapsamında Sort Dersleri Sonu Alıştırma Projeleri Kapsamında Yapılmıştır. Insertion Sort Projesi'dir. [www.patika.dev]
+** Patika Kapsamında Sort Dersleri Sonu Alıştırma Projeleri Kapsamında Yapılmıştır. Insertion Sort Projesi'dir. [www.patika.dev]
 
 ## Insertion Sort Projesi
 
@@ -19,7 +19,7 @@ Patika Kapsamında Sort Dersleri Sonu Alıştırma Projeleri Kapsamında Yapılm
 
 2. ### Big-O gösterimini yazınız.
 
-  - n + (n-1) + (n-2) + ---- + 1 = (n.(n+1))/2 = n^2/2 + n/2 ==> Buradanda Big-O Gösterimi O(n^2) 
+  -** n + (n-1) + (n-2) + ---- + 1 = (n.(n+1))/2 = n^2/2 + n/2 ==> Buradanda Big-O Gösterimi O(n^2) 
 
 ----------------------------
 
