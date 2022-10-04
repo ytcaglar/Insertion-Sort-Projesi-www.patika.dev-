@@ -1,6 +1,6 @@
 # Insertion-Sort-Projesi-www.patika.dev-
 
-**Patika Kapsamında Sort Dersleri Sonu Alıştırma Projeleri Kapsamında Yapılmıştır. Insertion Sort Projesi'dir. [www.patika.dev]** 
+**Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Insertion Sort Projesi'dir. [www.patika.dev]** 
 
 ## Insertion Sort Projesi
 
