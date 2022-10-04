@@ -36,7 +36,7 @@
 
  - #### Dizi Sıralandıktan Sonra: [2,6,16,18,22,27]
 
-   - 18 Sayısının Ortada Olmasından Dolayı Average Case Kapsamına Girer...
+   - 18 Sayısının Ortada Olmasından Dolayı **Average Case** Kapsamına Girer...
 
 ----------------------------
 
